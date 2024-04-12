@@ -1,12 +1,12 @@
-# Godot 3 2D Fake Explosion Particles
+# Godot 4 2D Fake Explosion Particles
 
 A script to simulate exploding particles.
 
-![Godot-3-2D-Fake-Explosion-Particles-GIF](examples/Godot-3-2D-Fake-Explosion-Particles.gif)
+![Godot-4-2D-Fake-Explosion-Particles-GIF](examples/Godot-4-2D-Fake-Explosion-Particles.gif)
 
 ## Instalation
 
-* [Download](https://github.com/hiulit/Godot-3-2D-Fake-Explosion-Particles/archive/master.zip) the repository ZIP file.
+* [Download](https://github.com/VSeryi/Godot-4-2D-Fake-Explosion-Particles/archive/master.zip) the repository ZIP file.
 * Copy `fake_explosion_particles.tscn` and `fake_explosion_particles.gd`.
 
 ## Usage
@@ -67,7 +67,7 @@ var particles_colors_with_weights = [
 
 ## Parameters
 
-![Godot-3-2D-Fake-Explosion-Particles-Parameters](examples/parameters.png)
+![Godot-4-2D-Fake-Explosion-Particles-Parameters](examples/parameters.png)
 
 The minimum and maximum variables values are used to generate random values. If you don't want to use random values, set the minimum and maximum variables values with the same value.
 
@@ -173,12 +173,14 @@ See [CHANGELOG](CHANGELOG.md).
 
 ## Authors
 
-* Me 😛 [hiulit](https://github.com/hiulit).
+* Me 😛 [VSeryi](https://github.com/hiulit).
+* [hiulit](https://github.com/hiulit).
 
 ## Credits
 
 Thanks to:
 
+* [hiulit](https://github.com/hiulit) - For the [original version compatible with Godot 3](https://github.com/hiulit/Godot-3-2D-Fake-Explosion-Particles)
 * [CowThing](https://github.com/CowThing) - For the `_rand_array` function.
 
 ## License
